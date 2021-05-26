@@ -9,7 +9,7 @@ writing in markdown is not that __hard__!
 
 link to [file 2](file2.md)
 
-this link to [Google](www.google.co.in)
+this link to [Google](https://www.google.co.in)
 
 Your photo:
 
